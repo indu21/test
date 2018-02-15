@@ -3,7 +3,7 @@ package org.ravi.helloworld;
 public class Hello {
 	
 	public String displayHelloMessage(String message){
-		message = "hi";
+		message = "hello this is Jenny";
 		return message;
 	}
 
